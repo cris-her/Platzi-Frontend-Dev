@@ -26,6 +26,7 @@ Posicionamiento en CSS
 ¿Qué son y para qué nos sirven las arquitecturas CSS?
 OOCSS, BEM, SMACSS, ITCSS y Atomic Design
 Reto 2: Identifica el error de arquitectura del siguiente bloque de código
+
 **Construcción de componentes**
 ¿Qué es un componente? Analicemos nuestros diseños
 Estructura con HTML y BEM de un menú desplegable
