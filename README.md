@@ -71,3 +71,5 @@ https://coolsymbol.com/emojis/emoji-for-copy-and-paste.html
 
 https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
 
+https://colorhunt.co/
+
