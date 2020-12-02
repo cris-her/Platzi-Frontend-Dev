@@ -73,3 +73,11 @@ https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
 
 https://colorhunt.co/
 
+https://iconos8.es/
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://fonts.google.com/
+
+https://www.w3schools.com/cssref/pr_text_white-space.asp
+
