@@ -82,3 +82,33 @@ https://fonts.google.com/
 https://www.w3schools.com/cssref/pr_text_white-space.asp
 
 https://www.pexels.com/
+
+https://flexboxfroggy.com/
+
+https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox
+
+https://labs.jensimmons.com/
+
+https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://cssgridgarden.com/
+
+https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout
+
+https://coolors.co/
+
+https://github.com/teffcode/sass-workshop
+
+Lectores de pantalla: NVDA, JAWS, VOICEOVER
+
+https://support.apple.com/es-mx/HT202362
+
+https://www.ssa.gov/accessibility/andi/help/install.html
+
+https://developer.mozilla.org/es/docs/Web/HTML/Atributos_Globales/tabindex
+
+https://storybook.js.org/docs/html/get-started/introduction
+
+https://codepen.io/
